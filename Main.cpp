@@ -207,7 +207,7 @@ MAIN:
             }
             break;
         }
-        case 0: {
+        case 3: {
             exit(0);
         }
         default:
